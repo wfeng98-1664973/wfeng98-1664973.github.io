@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+#Header{
+border:solid 8px black;
+}
+
+body{
+}
+p{
+}
+h3{
+}
+li{
+}
+#Header{
+}
+LeftNav{
+}
+#Content{
+}
+#Footer{
+}
